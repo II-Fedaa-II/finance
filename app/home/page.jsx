@@ -8,6 +8,7 @@ import BenefitsSection from "./components/benefitsSections";
 import VisaSection from "./components/visaSection";
 
 const HomePage = () => {
+  
   return (
     <div className="md:mx-8 lg:mx-32 space-y-24">
       <Navbar />
