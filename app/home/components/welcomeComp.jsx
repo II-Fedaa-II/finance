@@ -10,10 +10,8 @@ const WelcomeComponent = () => {
         Welcome! Future Platform
       </h1>
       <p className="md:text-4xl text-6xl font-bold mb-8">
-        The World's Most Modern Cardless Payment&nbsp;
-        <span className={`${blueGardient}`}>
-        Platform
-        </span>
+        The World &apos s Most Modern Cardless Payment&nbsp;
+        <span className={`${blueGardient}`}>Platform</span>
       </p>
       <p className="text-gray-400 mb-10">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet rerum

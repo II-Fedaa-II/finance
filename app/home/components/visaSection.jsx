@@ -25,7 +25,7 @@ const VisaSection = () => {
           <p className="text-gray-400 mb-10">
             Experience the freedom and convenience of our Visa Card, designed to
             meet your financial needs with unparalleled security and global
-            acceptance. Whether you're shopping online or in-store, traveling
+            acceptance. Whether you are shopping online or in-store, traveling
             abroad, or managing your everyday expenses, our Visa Card offers you
             the flexibility and peace of mind you deserve.
           </p>
